@@ -85,3 +85,12 @@ is possibly a desirable effect:
 ```shell
 python overlayer.py -i input.pdf
 ```
+
+## Example Overlays
+The example overlays found in [example_overlays/](https://github.com/isaacjeffersonlee/pdf-overlayer/tree/master/example_overlays)
+are white, so they appear blank. They provide a demonstration of how
+you can remove unwanted information from pdfs using this tool by 
+creating an overlay image which has white areas, and then applying
+these overlays to the pages of the pdf. I.e if you wanted to remove
+all headers and footers from a pdf, you could create an overlay with white
+in these areas.
