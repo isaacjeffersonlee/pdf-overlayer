@@ -41,11 +41,12 @@ Then to install the poppler-utils for mac see the instructions [here](https://ma
 Delete windows, then install Linux and see above instructions.
 
 ### Cloning the repo
-Once all of the dependencies have been installed, simply clone the repo and run the script with python:
+Once all of the dependencies have been installed, simply clone the repo and cd into it:
 ```shell
-git clone
+git clone https://github.com/isaacjeffersonlee/pdf-overlayer
+cd pdf-overlayer/
 ```
-
+For useage see next section...
 
 ## Usage
 Single file, simple use case, stamp every page of the pdf with the same image:
