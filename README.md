@@ -44,6 +44,8 @@ Delete windows, then install Linux and see above instructions.
 Once all of the dependencies have been installed, simply clone the repo and cd into it:
 ```shell
 git clone https://github.com/isaacjeffersonlee/pdf-overlayer
+```
+```shell
 cd pdf-overlayer/
 ```
 For useage see next section...
